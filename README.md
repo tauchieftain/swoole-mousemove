@@ -1,4 +1,4 @@
-# websocket-mousemove  
+# swoole-mousemove 
 
     cli下启动服务： php server.php
     web浏览器多开页面，jsClient.php
